@@ -4,6 +4,7 @@
 
 - [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
+- [Data Science & Deep Learning for Business™ 20 Case Studies](https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/)
 
 ### Django
 - [Python In Web Development with Django](https://www.udemy.com/course/python-3-na-web-com-django-basico-intermediario/)
